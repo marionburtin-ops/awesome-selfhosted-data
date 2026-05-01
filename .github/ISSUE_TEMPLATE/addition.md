@@ -1,5 +1,6 @@
 ---
-name: Addition
+name: bahman
+
 about: Add new software to the list.
 title: Add SOFTWARE_NAME
 labels: addition, reviewers wanted
